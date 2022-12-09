@@ -26,6 +26,7 @@ body {
     
   margin: 50px auto;
     background-color: white;
+    ;
 }
 
 .bottom-container{
@@ -35,7 +36,7 @@ body {
 
 
 .skill-row {
-    width: 70%;
+    width: 40%;
     margin: 100px auto 100px auto;
     text-align: left;
     
@@ -83,15 +84,15 @@ hr{
     text-decoration: underline;
 }
  .intro {
-    width: 50%;
+    width: 30%;
     margin:auto;
     padding-bottom: 50px;
  }
 
 .contact-me-message {
-    width: 50%;
-    margin: auto;
-    padding-bottom: 10px 20px;
+    width: 30%;
+    margin: 30px auto;
+
    
     
 }
@@ -124,6 +125,7 @@ a {
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
+   
   }
   
   .btn:hover {
@@ -150,6 +152,7 @@ a {
 
 .mypic
 {
+    padding-bottom: 30px;
     width: 30%;}
 
   
